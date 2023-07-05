@@ -5,7 +5,7 @@ This Java program is designed to merge multiple CSV files into a single file bas
 
 ## Tech Stack: Java 8
 
-Instructions:
+## Instructions:
   To run the program, navigate to src/Solution.java.
   
 ## Test Samples:
