@@ -3,7 +3,8 @@
 
 This Java program is designed to merge multiple CSV files into a single file based on a unique identifier (User ID). It utilizes a multithreaded approach to enhance the reading speed. Measures have been taken to handle concurrency issues and prevent conflicts during the writing process. The program also incorporates the Inversion of Control design pattern and Dependency Injection.
 
-## Tech Stack: Java 8
+## Tech Stack: 
+  Java 8
 
 ## Instructions:
   To run the program, navigate to src/Solution.java.
